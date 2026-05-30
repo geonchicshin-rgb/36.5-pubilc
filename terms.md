@@ -28,4 +28,4 @@
 
 ## 7. 문의
 
-- 이메일: support@example.com
+- 이메일: geonchicshin@gmail.com
